@@ -1,5 +1,4 @@
 #use "gcd.ml"
 
-let coprime a b = 
-	if gcd a b = 1 then true else false;;
+let coprime a b = gcd a b = 1;;
 
