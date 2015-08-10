@@ -1,4 +1,5 @@
 list/*
 arithmetic/*
 logic/*
+tree/*
 !*.ml
